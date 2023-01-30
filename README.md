@@ -5,23 +5,23 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://tonyryan122.github.io/home">tonyryan122.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://tonyryan122.github.io">About Me</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+![GitHub contributors](https://img.shields.io/github/contributors/tonyryan122/home?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/tonyryan122/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/tonyryan122/home?style=for-the-badge)](https://github.com/tonyryan122/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/tonyryan122/home?color=ffcc66&style=for-the-badge)](https://github.com/tonyryan122/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/tonyryan122/home?style=for-the-badge)](https://github.com/tonyryan122/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tonyryan122?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/tonyryan122)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://tonyryan122.github.io/home)
 
 ## Table of Contents
 
@@ -131,7 +131,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at tonyliang71@gmail.com.
 
 ## Showcase 🚀
 
@@ -222,8 +222,8 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 ## Notice:
 
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
+This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/tonyryan122/portfolio)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+[![Stargazers over time](https://starchart.cc/tonyryan122/home.svg)](https://starchart.cc/tonyryan122/home)
