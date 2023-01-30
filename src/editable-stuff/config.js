@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/tonyryan.png"),
   imageSize: 375,
   message:
-    "My name is Tony Ryan. I’m a graduate of 2020 from University of Helsinki at Helsinki with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Tony Ryan. I’m a graduate of 2017 from University of Helsinki at Helsinki with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -101,20 +101,20 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
+    { name: "SQL", value: 94 },
+    { name: "PHP", value: 96 },
+    { name: "Vue.js", value: 95 },
     { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
+    { name: "React", value: 92 },
+    { name: "HTML/CSS", value: 95 },
     { name: "C#", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 87 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 95 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
     { name: "Creativity", value: 90 },
@@ -131,18 +131,23 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'React Front-end Engineer',// Here Add Company Name
+      companylogo: require('../assets/img/sitback.png'),
+      date: 'March 2021 – October 2022',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Python / Nest.js Back-end Developer',
+      companylogo: require('../assets/img/suimoto.png'),
+      date: 'May 2019 – January 2021',
+    },
+    {
+      role: 'Front-end JavaScript Developer',
+      companylogo: require('../assets/img/digital.png'),
+      date: 'August 2017 – April 2019',
     },
   ]
 }
