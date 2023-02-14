@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Tony",
+  firstName: "Anh",
   middleName: "",
-  lastName: "Ryan",
+  lastName: "Tran",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/tonyryan122",
+      url: "https://github.com/anhtran917",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/tonyryan122",
+      url: "https://www.facebook.com/anhtran917",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/tonyryan122/",
+      url: "https://www.instagram.com/anhtran917/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/tonyryan122/",
+      url: "www.linkedin.com/in/anh-tran-584b27260",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/tonyryan122/",
+      url: "https://www.twitter.com/anhtran917/",
     },
   ],
 };
@@ -41,7 +41,7 @@ const mainBody = {
 //b) a link to an hosted image
 //      i.e:profilePictureLink:"www.picturesonline.com/johnDoeFancyAvatar.jpg",
 //c) image in "editable-stuff" directory and use require("") to import here,
-//      i.e: profilePictureLink: require("../editable-stuff/tonyryan.png"),
+//      i.e: profilePictureLink: require("../editable-stuff/anhtran.png"),
 //d) If you do not want any picture to be displayed, just leave it empty :)
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
@@ -51,10 +51,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/tonyryan.png"),
+  imageLink: require("../editable-stuff/anhtran.png"),
   imageSize: 375,
   message:
-    "My name is Tony Ryan. I’m a graduate of 2017 from University of Helsinki at Helsinki with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Anh Tran. I’m a graduate of 2017 from University of Helsinki at Helsinki with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "tonyryan122", //i.e."johnDoe12Gh"
+  gitHubUsername: "anhtran917", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -79,12 +79,12 @@ const leadership = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/tonyryan.png"), 
+      img: require("../editable-stuff/anhtran.png"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/tonyryan.png"), 
+      img: require("../editable-stuff/anhtran.png"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "tonyliang71@gmail.com",
+  email: "fullstackdeveloper917@gmail.com",
 };
 
 const experiences = {
