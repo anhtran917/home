@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/anhtran.png"),
   imageSize: 375,
   message:
-    "My name is Anh Tran. I’m a graduate of 2017 from University of Helsinki at Helsinki with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Anh Tran. I’m a graduate of 2017 from George Mason University at Fairfax with a degree in Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -136,18 +136,23 @@ const experiences = {
   data: [
     {
       role: 'React Front-end Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/sitback.png'),
-      date: 'March 2021 – October 2022',
+      companylogo: require('../assets/img/greenrabbit.png'),
+      date: 'February 2022 – October 2022',
     },
     {
-      role: 'Python / Nest.js Back-end Developer',
-      companylogo: require('../assets/img/suimoto.png'),
-      date: 'May 2019 – January 2021',
+      role: 'Full Stack Developer',
+      companylogo: require('../assets/img/bellpepper.png'),
+      date: 'February 2020 - April 2022',
     },
     {
-      role: 'Front-end JavaScript Developer',
-      companylogo: require('../assets/img/digital.png'),
-      date: 'August 2017 – April 2019',
+      role: 'Spring MVC',
+      companylogo: require('../assets/img/aliexpress.png'),
+      date: 'March 2018 - February 2020',
+    },
+    {
+      role: 'Full Stack Web | Mobile App developer',
+      companylogo: require('../assets/img/selfemployed.jfif'),
+      date: 'January 2017 - March 2018',
     },
   ]
 }
